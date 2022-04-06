@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiriamKet
-- 👀 I’m interested in technology business
+- 👀 I’m interested in technology and business
 - 🌱 I’m currently learning Java full stack
 - 💞️ I’m looking to collaborate on great companies
 
